@@ -28,7 +28,7 @@ hashMode: true
 address: ''
 
 # 自有部署后台登录密码
-password: admin
+password: xxxx
 
 # 自有部署启动端口
 port: 7777
@@ -45,7 +45,7 @@ mailConfig:
     user: ''
     pass: ''
   title: 网站收录通知
-  message: 有用户提交网站收录啦
+  message: Hi!有用户提交网站收录啦
 
 # 自有部署
 XFAPIPassword: ''
